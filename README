@@ -1,0 +1,4 @@
+This is a Unix port of mk,
+originally done for the Inferno operating system.
+
+Imported from 9base project to build as standalone program.
